@@ -1,4 +1,4 @@
-# delivoostores
+# FoodDelivery Owner with Flutter
 
 A new Flutter application.
 
